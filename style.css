@@ -1,0 +1,28 @@
+#hero-section {
+    background-image: url(../assets/architect.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+}
+
+#br-text{
+    padding: 8px 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#a-text{
+    letter-spacing: 2px;
+}
+
+#about-section img{
+    filter: grayscale(70%);
+}
+
+#project-section .card{
+    margin-top: 16px;
+}
+
+header{
+    z-index: 1;
+}
